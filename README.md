@@ -3,5 +3,6 @@ This project involves a comprehensive data analysis of a pizza shop's sales data
 performance and customer preferences.
 
 TOOLS USED 
+
 SQL
 POWER BI
