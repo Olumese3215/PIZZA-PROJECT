@@ -37,9 +37,9 @@ This reports comprises 2 pages
   ![](home1.png)
 
 **_ Best/Worst Sellers Visuals_**
+![](BestWorstseller.png)
 
 
-![](Best-Worst selller 2023-07-25 192053.png)
   
 
 
