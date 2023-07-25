@@ -39,6 +39,14 @@ This reports comprises 2 pages
 **_ Best/Worst Sellers Visuals_**
 ![](BestWorstseller.png)
 
+# Insights
+From our analysis using SQL & Power BI, we were able to understand how our products performed in the market and consumer preferences.The Following
+Insights
+- We had more orders on fridays and saturdays
+- The month of July and January gave us maximum orders.
+- Classic Category contributes maximum to sales and total orders
+- Large Size Pizza contributes more to sale
+- The Brie Carre Pizza contributed the minimum to revenue,quantity & Total Orders.
 
   
 
