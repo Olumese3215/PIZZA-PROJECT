@@ -21,6 +21,11 @@ To analayse key indicators that will help us understand the business overall per
 12. Bottom 5 Best Sellers By Revenue,Total Quantity and Total Orders
 
 ## Skills/ Concepts Demonstrated
--Bookmarking,DAX,Quick Measures,Page Navigation,Modelling,Filters,tooltips,Buttons
-- 
+-SQL: Proficiently used SQL to extract, manipulate, and aggregate data from the pizza sales database. Demonstrated abilities in querying databases, performing data cleaning, and preparing data for analysis.
+
+-Data Cleaning and Transformation: Applied data cleaning techniques to ensure data quality and integrity. Transformed raw data into a structured format suitable for analysis and visualization.
+
+-Power BI: Created interactive and visually appealing dashboards using Power BI to visualize the monthly and daily trends of total orders, percentage of pizza sales based on size, and category-based sales. Effectively communicated analytical findings through data visualization.
+
+
 
