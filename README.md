@@ -30,7 +30,18 @@ To analayse key indicators that will help us understand the business overall per
 ## Visualization
 This reports comprises 2 pages
 - Home Page
--Best/ Worst Sellers Page
+- Best/ Worst Sellers Page
+
+**_ Home Page visuals_**
+  
+  ![](home1.png)
+
+**_ Best/Worst Sellers Visuals_**
+
+
+![](Best-Worst selller 2023-07-25 192053.png)
+  
+
 
 
 
