@@ -19,3 +19,8 @@ To analayse key indicators that will help us understand the business overall per
 10. Total Pizza sold By Pizza Category
 11. Top 5 Best Sellers By Revenue,Total Quantity and Total Orders
 12. Bottom 5 Best Sellers By Revenue,Total Quantity and Total Orders
+
+## Skills/ Concepts Demonstrated
+-Bookmarking,DAX,Quick Measures,Page Navigation,Modelling,Filters,tooltips,Buttons
+- 
+
