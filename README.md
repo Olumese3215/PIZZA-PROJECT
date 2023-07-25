@@ -27,5 +27,11 @@ To analayse key indicators that will help us understand the business overall per
 
 -Power BI: Created interactive and visually appealing dashboards using Power BI to visualize the monthly and daily trends of total orders, percentage of pizza sales based on size, and category-based sales. Effectively communicated analytical findings through data visualization.
 
+## Visualization
+This reports comprises 2 pages
+- Home Page
+-Best/ Worst Sellers Page
+
+
 
 
